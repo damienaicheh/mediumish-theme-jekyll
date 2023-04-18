@@ -54,17 +54,17 @@ To keep everything consistent and easy to find please follow the list of tags an
 
 #### Categories
 
-cloud-native, containers, devops, tutorial
+`cloud-native`, `containers`, `demo`, `devops`, `tutorial`
 
 #### Tags
 
-apim, app-service, azure-devops, function, github-actions, github, starter
+`apim`, `app-service`, `azure-devops`, `bicep`, `function`, `github-actions`, `github`, `starter`, `terraform`
 
 ### Infrastructure As Code
 
 #### Naming convention
 
-When adding your samples of infrastructure as code please make sure to follow the official [naming convention](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/)
+When adding your samples of infrastructure as code please make sure to follow the official [naming convention](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/). This is **very important** to give good naming samples during a customer demo.
 
 #### Add your code
 
