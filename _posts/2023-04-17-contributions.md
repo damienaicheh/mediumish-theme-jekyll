@@ -4,7 +4,7 @@ title:  "Contributions"
 author: damienaicheh
 categories: [ tutorial ]
 tags: [starter]
-description: "This will give you all the rules to contribute to this website"
+excerpt: "This will give you all the rules to contribute to this website"
 featured: true
 hidden: true
 ---
@@ -41,7 +41,7 @@ title: # your title (Required)
 author: # your alias (Required)
 categories: [ Tutorial ] # Based on the list provided below (Required)
 tags: [tutorial] # Based on the list provided below (Required)
-description: # Short description (Required)
+excerpt: # Short description (Required)
 github: https://github.com/ # External repository if needed
 ---
 ``` 

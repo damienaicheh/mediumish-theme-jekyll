@@ -15,7 +15,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 .mainheading {
-    padding: 1rem 0rem;
+    padding: 0rem;
 }
 
 a {
@@ -297,6 +297,7 @@ span.post-read-more a:hover {
 .mediumnavigation .nav-item,
 .dropdown-menu {
     font-size: 0.9rem;
+    font-weight: bold;
 }
 
 .mediumnavigation .search-icon {

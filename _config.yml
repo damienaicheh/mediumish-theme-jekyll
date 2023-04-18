@@ -1,10 +1,10 @@
 # Site
-name: "Apps Innov"
-title: "Apps Innov"
-description: "Samples and demo template for Azure"
+name: "Iak"
+title: "Iak"
+description: "Infrastructure As Code samples and demo models for Azure and its partners"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
+baseurl: /iak
 include: ["_pages"]
 permalink: /:title/
 
@@ -12,7 +12,7 @@ permalink: /:title/
 authors:
   damienaicheh:
     display_name: Damien Aicheh
-    avatar: 'assets/images/avatar.png'
+    gravatar: b5cf688a9aa81b3ef752ecda4366a8e9
     web: https://damienaicheh.github.io
     twitter: https://twitter.com/damienaicheh
     description: "Cloud Solution Architect. Blogger"
