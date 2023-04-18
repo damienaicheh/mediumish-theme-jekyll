@@ -4,7 +4,6 @@ title:  "Inception Movie"
 author: sal
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
-image: assets/images/11.jpg
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 github: https://github.com/damienaicheh/moaw/
 ---
@@ -22,7 +21,6 @@ title:  "Inception Movie"
 author: john
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
-image: assets/images/11.jpg
 description: "My review of Inception movie. Actors, directing and more."
 rating: 4.5
 ---

@@ -42,7 +42,9 @@ author: # your alias (Required)
 categories: [ Tutorial ] # Based on the list provided below (Required)
 tags: [tutorial] # Based on the list provided below (Required)
 excerpt: # Short description (Required)
-github: https://github.com/ # External repository if needed
+github: https://github.com/ # (Optional) External repository if needed
+beforetoc: # (Optional) Short description before the table of content
+toc: true # (Optional) Display a Table of Contents at the begining of the post
 ---
 ``` 
 
