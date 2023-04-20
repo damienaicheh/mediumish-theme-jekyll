@@ -21,16 +21,17 @@ Inside the `_config.yml` file add your self as an author. Keep the alias for the
   youralias:
     display_name: # Your Name
     gravatar: # gravatar id if you have one
-    avatar: 'assets/images/your_path.png' # add your profil picture if you don't have a gravatar id
+    avatar: 'assets/images/avatar.png' # add your profile picture if you don't have a gravatar id
     web: # Optional
     twitter: https://twitter.com/your-id # Optional
+    github: https://github.com/your-id # Optional
     description: # Short description
 ```
 
 ### Create a new document
 
 In the `_posts` folder add a new file to present your contribution. The naming convention must be:
-`yyyy-mm-dd-a-title.md`
+`yyyy-mm-dd-your-title.md`
 
 Inside it copy past the template below so you can fill it with the right informations:
 
